@@ -1,66 +1,7 @@
 
 
 # AI Voice Agent
-
-This is a web application that provides AI-powered voice assistant features. It's built with a modern web stack, featuring a Next.js frontend, a Convex backend, and Stackframe for authentication.
-
-## Tech Stack
-
-- **Framework**: [Next.js](https://nextjs.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **UI Components**: [Shadcn/UI](https://ui.shadcn.com/)
-- **Backend & Database**: [Convex](https://www.convex.dev/)
-- **Authentication**: [Stackframe](https://www.stackframe.sh/)
-- **Containerization**: [Docker](https://www.docker.com/)
-
-## Getting Started
-
-Follow these instructions to set up and run the project locally.
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v18 or later)
-- [npm](https://www.npmjs.com/)
-- [Docker](https://www.docker.com/get-started)
-
-### Installation
-
-1.  **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/[your-username]/ai-voice-agent.git
-    cd ai-voice-agent
-    ```
-
-2.  **Install dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3.  **Set up environment variables:**
-
-    Create a `.env.local` file in the root of the project and add the following, replacing the placeholder with your local Convex URL:
-
-    ```env
-    NEXT_PUBLIC_CONVEX_URL=http://127.0.0.1:3210
-    ```
-
-4.  **Start the Convex backend:**
-
-    Run the following command to start the Convex services in the background using Docker:
-
-    ```bash
-    docker-compose up -d
-    ```
-
-5.  **Run the development server:**
-
-    ```bash
-    npm run dev
-    ```
-
-    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+](http://localhost:3000) with your browser to see the result.
 
 ## Project Structure
 
