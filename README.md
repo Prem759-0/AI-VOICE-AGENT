@@ -76,4 +76,3 @@ Follow these instructions to set up and run the project locally.
 -   `package.json`: Lists project dependencies and scripts.
 
 
-
