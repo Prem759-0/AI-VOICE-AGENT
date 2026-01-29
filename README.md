@@ -1,14 +1,4 @@
- repository:**
-
-    ```bash
-    git clone https://github.com/[your-username]/ai-voice-agent.git
-    cd ai-voice-agent
-    ```
-
-2.  **Install dependencies:**
-
-    ```bash
-    npm install
+ 
     ```
 
 3.  **Set up environment variables:**
