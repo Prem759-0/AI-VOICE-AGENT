@@ -6,12 +6,7 @@ This is a web application that provides  Stack
 - l Components**: 
 ## Getting Started
 
-Follow these instructions to set up and run the project locally.
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v18 or later)
-- [npm](https://www.npmjs.com/)
+://www.npmjs.com/)
 - [Docker](https://www.docker.com/get-started)
 
 ### Installation
