@@ -1,17 +1,4 @@
-
- AI Voice Agent
-
-This is a web application that provides  Stack
-
-- l Components**: 
-## Getting Started
-
-://www.npmjs.com/)
-- [Docker](https://www.docker.com/get-started)
-
-### Installation
-
-1.  **Clone the repository:**
+ repository:**
 
     ```bash
     git clone https://github.com/[your-username]/ai-voice-agent.git
