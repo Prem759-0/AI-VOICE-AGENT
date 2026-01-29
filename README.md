@@ -3,11 +3,7 @@
 
 This is a web application that provides  Stack
 
-- l Components**: [Shadcn/UI](https://ui.shadcn.com/)
-- **Backend & Database**: [Convex](https://www.convex.dev/)
-- **Authentication**: [Stackframe](https://www.stackframe.sh/)
-- **Containerization**: [Docker](https://www.docker.com/)
-
+- l Components**: 
 ## Getting Started
 
 Follow these instructions to set up and run the project locally.
