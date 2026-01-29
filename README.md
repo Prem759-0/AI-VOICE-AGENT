@@ -75,4 +75,3 @@ Follow these instructions to set up and run the project locally.
 -   `docker-compose.yml`: Defines the local Docker container setup for Convex.
 -   `package.json`: Lists project dependencies and scripts.
 
-
