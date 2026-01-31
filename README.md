@@ -5,21 +5,4 @@ This is a web application that provides AI-powered voice assistant features. It'
 ## Tech Stack
 
 - **Framework**: [Next.js](https://nextjs.org/)
--  the Convex services in the background using Docker:
-
-    ```bash
-    docker-compose up -d
-    ```
-
-5.  **Run the development server:**
-
-    ```bash
-    npm run dev
-    ```
-
-    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Project Structure
-
--   `app/`: Contains the core Next.js application, 
-
+-  the 
