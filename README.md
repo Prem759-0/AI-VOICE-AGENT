@@ -1,21 +1,6 @@
  AI Voice Agent
 
-This is a web application that provides AI-powered voice assistant features. It's built with a modern web stack, featuring a Next.js frontend, a Convex backend, and 
-    ```bash
-    git clone https://github.com/[your-username]/ai-voice-agent.git
-    cd ai-voice-agent
-    ```
-
-2.  **Install dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3.  **Set up environment variables:**
-
-    Create a `.env.local` file in the root of the project and add the following, replacing the placeholder with your local Convex URL:
-
+This is a web application that provides AI-powered voice assistant features. It's built with a modern web stack, featuring a Next.js 
     ```env
     NEXT_PUBLIC_CONVEX_URL=http://127.0.0.1:3210
     ```
