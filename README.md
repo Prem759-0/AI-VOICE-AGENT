@@ -1,8 +1,6 @@
  AI Voice Agent
 
-This is a web application that provides AI-powered voice assistant features. It's built with a modern web stack, featuring a Next.js 
-    ```env
-    NEXT_PUBLIC_CONVEX_URL=http://127.0.0.1:3210
+This is a web application that provides  NEXT_PUBLIC_CONVEX_URL=http://127.0.0.1:3210
     ```
 
 4.  **Start the Convex backend:**
