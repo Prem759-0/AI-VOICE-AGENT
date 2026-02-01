@@ -1,15 +1,5 @@
 
-AI Voice Agent
-
-This is a web application that provides 
-1.  **Clone the repository:**
-
-    ```
-    ```
-
-3.  **Set up environment variables:**
-
-    Create a `.env.local` file in the root of the project and add the following, replacing the placeholder with your local Convex URL:
+AI  add the following, replacing the placeholder with your local Convex URL:
 
     ```env
     NEXT_PUBLIC_CONVEX_URL=http://127.0.0.1:3210
