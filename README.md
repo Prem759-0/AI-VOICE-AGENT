@@ -3,11 +3,6 @@
 This is a web application that provides  NEXT_PUBLIC_CONVEX_URL=http://127.0.0.1:3210
     ```
 
-4.  **Start the Convex backend:**
-
-    Run the following command to start the Convex services in the background using Docker:
-
-    ```bash
     docker-compose up -d
     ```
 
