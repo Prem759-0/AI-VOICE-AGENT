@@ -13,8 +13,7 @@
     npm 
     Open 
 ## Project Structure
-
--   `app/`: Contains the core Next.js  pages and components.
+.
 -   `components/`: Contains shared UI components, built with Shadcn/UI.
 -   `convex/`: Contains the Convex backend code, including schema and mutations.
 -   `hooks/`: Contains custom React hooks.
