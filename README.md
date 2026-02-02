@@ -10,13 +10,7 @@ This is a web application that provides AI-powered voice assistant features. It'
 - 
 ### Installation
 
-1.  **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/[your-username]/ai-voice-agent.git
-    cd ai-voice-agent
-    ```
-
+1.  
 2.  **Install dependencies:**
 
     ```bash
