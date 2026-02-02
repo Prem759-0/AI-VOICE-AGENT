@@ -11,7 +11,7 @@
 
 4.  **Start the Convex backend:**
 
-    Run the following command to start the Convex services in the background using Docker:
+    Run 
 
     ```bash
     docker-compose up -d
