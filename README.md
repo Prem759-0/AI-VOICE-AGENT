@@ -11,9 +11,7 @@
 
 4.  
     npm 
-    Open 
-## Project  shared UI components, built with Shadcn/UI.
--   `convex/`: Contains the Convex backend code, including schema and mutations.
+    Open  schema and mutations.
 -   `hooks/`: Contains custom React hooks.
 -   `lib/`: Contains utility functions.
 -   ` for Convex.
