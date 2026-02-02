@@ -11,13 +11,7 @@
 
 4.  **Start the Convex backend:**
 
-    Run 
-
-    ```bash
-    docker-compose up -d
-    ```
-
-5.  **Run the development server:**
+     the development server:**
 
     ```bash
     npm run dev
