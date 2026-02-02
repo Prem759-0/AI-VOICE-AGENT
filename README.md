@@ -12,9 +12,7 @@
 4.  
     npm 
     Open 
-## Project Structure
-.
--   `components/`: Contains shared UI components, built with Shadcn/UI.
+## Project  shared UI components, built with Shadcn/UI.
 -   `convex/`: Contains the Convex backend code, including schema and mutations.
 -   `hooks/`: Contains custom React hooks.
 -   `lib/`: Contains utility functions.
