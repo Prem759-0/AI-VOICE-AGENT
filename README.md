@@ -9,11 +9,7 @@
 3.  **Set up environment variables:**
 
 
-4.  **Start the Convex backend:**
-
-     the development server:**
-
-    ```bash
+4.  
     npm run dev
     ```
 
