@@ -54,10 +54,7 @@ This is a web application that provides AI-powered voice assistant features. It'
 -   `convex/`: Contains the Convex backend code, including schema and mutations.
 -   `hooks/`: Contains custom React hooks.
 -   `lib/`: Contains utility functions.
--   `public/`: Contains stati assets like images and fonts.
--   `services/`: Contains services used by the application.
--   `stack.js`: Configures the Stackframe authentication.
--   `docker-compose.yml`: Defines the local Docker container setup for Convex.
+-   ` for Convex.
 -   `package.json`: Lists project dependencies and scripts.
 
 
