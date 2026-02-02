@@ -11,8 +11,7 @@
 
 4.  
     npm 
-    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
+    Open 
 ## Project Structure
 
 -   `app/`: Contains the core Next.js application, including pages and components.
