@@ -8,8 +8,6 @@
 
 3.  **Set up environment variables:**
 
-    Create a `.env.local` file in the root of ://127.0.0.1:3210
-    ```
 
 4.  **Start the Convex backend:**
 
