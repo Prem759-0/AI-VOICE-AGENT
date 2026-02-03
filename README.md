@@ -1,11 +1,4 @@
 
- 
- AI Voice Agent
-
-This is a web application that provides AI-powered voice assistant features. It's 
-
-    ```bash
-    
 3.  **Set up environment variables:**
 
     Create a `.env.local` file in the root of 
