@@ -5,12 +5,7 @@
 This is a web application that provides AI-powered voice assistant features. It's 
 
     ```bash
-    git clone https://github.com/[your-username]/ai-voice-agent.git
-    cd ai-
-    ```bash
-    npm install
-    ```
-
+    
 3.  **Set up environment variables:**
 
     Create a `.env.local` file in the root of the project and add the following, replacing the placeholder with your local Convex URL:
