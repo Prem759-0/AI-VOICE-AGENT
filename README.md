@@ -49,12 +49,7 @@ This is a web application that provides AI-powered voice assistant features. It'
 
 ## Project Structure
 
--   `app/`: Contains the core Next.js application, including pages and components.
--   `components/`: Contains shared UI components, built with Shadcn/UI.
--   `convex/`: Contains the Convex backend code, including schema and mutations.
--   `hooks/`: Contains custom React hooks.
--   `lib/`: Contains  the local Docker 
-
+-   `app/`: Contains the core Next.js application, including pages and components
 
 
 
