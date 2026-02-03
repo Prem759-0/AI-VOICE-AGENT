@@ -6,11 +6,7 @@ This is a web application that provides AI-powered voice assistant features. It'
 
     ```bash
     git clone https://github.com/[your-username]/ai-voice-agent.git
-    cd ai-voice-agent
-    ```
-
-2.  **Install dependencies:**
-
+    cd ai-
     ```bash
     npm install
     ```
