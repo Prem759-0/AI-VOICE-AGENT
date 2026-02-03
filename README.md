@@ -5,12 +5,7 @@ This is a web application that provides AI-powered voice assistant features. It'
 
 ## Tech Stack
 
-- **Framework**: [Next.js](https://nextjs.org/)
-- 
-### 127.0.0.1:3210
-    ```
-
-4.  **Start the Convex backend:**
+- **Framework**: :**
 
     Run the following command to start the Convex services in the background using Docker:
 
