@@ -7,12 +7,7 @@ This is a web application that provides AI-powered voice assistant features. It'
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - 
-### Installation
-
-1.  **Clone  following, replacing the placeholder with your local Convex URL:
-
-    ```env
-    NEXT_PUBLIC_CONVEX_URL=http://127.0.0.1:3210
+### 127.0.0.1:3210
     ```
 
 4.  **Start the Convex backend:**
