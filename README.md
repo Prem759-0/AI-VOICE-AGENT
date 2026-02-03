@@ -8,9 +8,7 @@ This is a web application that provides AI-powered voice assistant features. It'
     
 3.  **Set up environment variables:**
 
-    Create a `.env.local` file in the root of the project and add the following, replacing the placeholder with your local Convex URL:
-
-    ```env
+    Create a `.env.local` file in the root of 
     NEXT_PUBLIC_CONVEX_URL=http://127.0.0.1:3210
     ```
 
