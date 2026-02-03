@@ -7,8 +7,6 @@ This is a web application that provides AI-powered voice assistant features. It'
 
 - **Framework**: :**
 
-    Run the following command to start the Convex  and components.
--   `components/`: Contains shared UI components, built with Shadcn/UI.
--   `convex/`: Contains the Convex backend code, including schema and mutations.
+    Run the following command to start the Convex   backend code, including schema and mutations.
 -   `hooks/`: Contains custom React 
 
