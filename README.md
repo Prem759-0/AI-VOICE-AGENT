@@ -1,13 +1,7 @@
   
 # AI Voice Agent
 
-This is a web application that provides AI-powered voice assistant features. It's built with a modern web stack,  [Convex](https://www.convex.dev/)
-- **Authentication**: [Stackframe](https://www.stackframe.sh/)
-- **Containerization**: [Docker](https://www.docker.com/)
-
-- [Node.js](https://nodejs.org/) (v18 or 
-3.  **Set up environment variables:**
-
+This is a web application that provides AI-powered voice assistant features. It's built 
     Create a `.env.local` file in the root of the project and add the following, replacing the placeholder with your local Convex URL:
 
     ```env
