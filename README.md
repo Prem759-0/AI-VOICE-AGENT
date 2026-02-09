@@ -1,43 +1,4 @@
 
-├───postcss.config.mjs
-├───README.md
-├───stack.js
-├───.git/...
-├───.next/
-│   ├───cache/...
-│   ├───server/...
-│   ├───static/...
-│   └───types/...
-├───app/
-│   ├───AuthProvider.jsx
-│   ├───favicon.ico
-│   ├───globals.css
-│   ├───layout.js
-│   ├───loading.js
-│   ├───logo1.svg
-│   ├───page.js
-│   ├───provider.jsx
-│   ├───_context/
-│   │   └───UserContext.jsx
-│   ├───(main)/
-│   │   ├───layout.jsx
-│   │   ├───_components/
-│   │   │   └───AppHeader.jsx
-│   │   ├───dashboard/
-│   │   │   ├───page.jsx
-│   │   │   └───_components/
-│   │   │       ├───FeatureAssistants.jsx
-│   │   │       ├───Feedback.jsx
-│   │   │       ├───History.jsx
-│   │   │       └───UserInputDialog .jsx
-│   │   └───discussion-room/
-│   │       └───[roomid]/
-│   │           └───page.jsx
-│   ├───api/
-│   │   └───getToken/
-│   │       └───route.jsx
-│   └───handler/
-│       └───[...stack]/
 │           └───page.js
 ├───components/
 │   └───ui/
