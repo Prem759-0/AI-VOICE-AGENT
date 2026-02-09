@@ -5,25 +5,7 @@ This is a web application that provides AI-powered voice assistant features. It'
 - **Authentication**: [Stackframe](https://www.stackframe.sh/)
 - **Containerization**: [Docker](https://www.docker.com/)
 
-- [Node.js](https://nodejs.org/) (v18 or later)
-- [npm](https://www.npmjs.com/)
-- [Docker](https://www.docker.com/get-started)
-
-### Installation
-
-1.  **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/[your-username]/ai-voice-agent.git
-    cd ai-voice-agent
-    ```
-
-2.  **Install dependencies:**
-
-    ```bash
-    npm install
-    ```
-
+- [Node.js](https://nodejs.org/) (v18 or 
 3.  **Set up environment variables:**
 
     Create a `.env.local` file in the root of the project and add the following, replacing the placeholder with your local Convex URL:
