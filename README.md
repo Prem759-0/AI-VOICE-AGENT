@@ -1,12 +1,5 @@
 l
-     background using Docker:
-
-    ```bash
-    docker-compose up -d
-    ```
-
-5.  **Run the development server:**
-
+     l
     ```bash
     npm run dev
     ```
