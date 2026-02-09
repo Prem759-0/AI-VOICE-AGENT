@@ -1,29 +1,6 @@
 
 │           └───page.js
-├───components/
-│   └───ui/
-│       ├───accordion.jsx
-│       ├───alert-dialog.jsx
-│       ├───alert.jsx
-│       ├───aspect-ratio.jsx
-│       ├───avatar.jsx
-│       ├───badge.jsx
-│       ├───blur-fade.jsx
-│       ├───breadcrumb.jsx
-│       ├───button-group.jsx
-│       ├───button.jsx
-│       ├───calendar.jsx
-│       ├───card.jsx
-│       ├───carousel.jsx
-│       ├───chart.jsx
-│       ├───checkbox.jsx
-│       ├───collapsible.jsx
-│       ├───command.jsx
-│       ├───context-menu.jsx
-│       ├───dialog.jsx
-│       ├───drawer.jsx
-│       ├───dropdown-menu.jsx
-│       ├───empty.jsx
+├───l
 │       ├───field.jsx
 │       ├───form.jsx
 │       ├───hover-card.jsx
