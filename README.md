@@ -1,11 +1,4 @@
 
-# AI Voice Agent
-
-- [Node.js](https://nodejs.org/) (v18 or later)
-- [npm](https://www.npmjs.com/)
-- [Docker](https://www.docker.com/get-started)
-
-### Installation
 
 1.  **Clone the repository:**
 
