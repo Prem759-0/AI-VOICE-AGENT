@@ -1,9 +1,4 @@
-  
-# AI Voice Agent
-
-This is a web application that provides AI-powered voice assistant features. It's built 
-    Create a `.env.local` file in the root of the project and add the following, replacing the placeholder with your local Convex URL:
-
+l
     ```env
     NEXT_PUBLIC_CONVEX_URL=http://127.0.0.1:3210
     ```
