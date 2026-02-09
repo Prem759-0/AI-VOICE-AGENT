@@ -5,12 +5,6 @@ This is a web application that provides AI-powered voice assistant features. It'
 - **Authentication**: [Stackframe](https://www.stackframe.sh/)
 - **Containerization**: [Docker](https://www.docker.com/)
 
-## Getting Started
-
-Follow these instructions to set up and run the project locally.
-
-### Prerequisites
-
 - [Node.js](https://nodejs.org/) (v18 or later)
 - [npm](https://www.npmjs.com/)
 - [Docker](https://www.docker.com/get-started)
