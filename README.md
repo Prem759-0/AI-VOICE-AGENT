@@ -1,19 +1,5 @@
 
-│       └───tooltip.jsx
-├───convex/
-│   ├───DiscussionRoom.jsx
-│   ├───schema.js
-│   ├───users.js
-│   └───_generated/
-│       ├───api.d.ts
-│       ├───api.js
-│       ├───dataModel.d.ts
-│       ├───server.d.ts
-│       └───server.js
-├───hooks/
-│   └───use-mobile.js
-├───lib/
-│   └───utils.js
+│       └───
 ├───node_modules/...
 ├───public/
 │   ├───ab1.png
