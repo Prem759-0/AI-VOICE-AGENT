@@ -1,19 +1,5 @@
 
 │
-│       ├───progress.jsx
-│       ├───radio-group.jsx
-│       ├───resizable.jsx
-│       ├───scroll-area.jsx
-│       ├───select.jsx
-│       ├───separator.jsx
-│       ├───sheet.jsx
-│       ├───sidebar.jsx
-│       ├───skeleton.jsx
-│       ├───slider.jsx
-│       ├───sonner.jsx
-│       ├───spinner.jsx
-│       ├───switch.jsx
-│       ├───table.jsx
 │       ├───tabs.jsx
 │       ├───textarea.jsx
 │       ├───toggle-group.jsx
