@@ -1,5 +1,4 @@
-/) (v18 or later)
-- [npm](https://www.npmjs.com/)
+://www.npmjs.com/)
 
 1.  **Clone :**
 
