@@ -1,10 +1,5 @@
 
-    =http://127.0.0.1:3210
-    `
-
-    ```bash
-    docker-compose up -d
-    ```
+    =
 
 5.  **Run the development server:**
 
