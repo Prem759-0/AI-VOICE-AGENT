@@ -1,14 +1,5 @@
 
-│├───dashboard/
-│   │   │ roomid]/
-│   │           └───page.jsx
-│   ├───api/
-│   │   └───getToken/
-│   │       └───route.jsx
-│   └───handler/
-│       └───[...stack]/
-│           └───page.js
-├───components/
+│
 │   └───ui/
 │       ├───accordion.jsx
 │       ├───alert-dialog.jsx
