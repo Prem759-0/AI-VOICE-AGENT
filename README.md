@@ -6,11 +6,7 @@
 ├───middleware.jsx
 ├───next-env.d.ts
 ├───next.config.mjs
-├───package-lock.json
-├───package.json
-├───postcss.config.mjs
-├───README.md
-├───stack.js
+├───
 ├───.git/...
 ├───.next/
 │   ├───cache/...
