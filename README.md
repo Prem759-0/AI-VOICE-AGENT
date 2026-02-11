@@ -1,18 +1,5 @@
 
 │
-│       ├───button.jsx
-│       ├───calendar.jsx
-│       ├───card.jsx
-│       ├───carousel.jsx
-│       ├───chart.jsx
-│       ├───checkbox.jsx
-│       ├───collapsible.jsx
-│       ├───command.jsx
-│       ├───context-menu.jsx
-│       ├───dialog.jsx
-│       ├───drawer.jsx
-│       ├───dropdown-menu.jsx
-│       ├───empty.jsx
 │       ├───field.jsx
 │       ├───form.jsx
 │       ├───hover-card.jsx
