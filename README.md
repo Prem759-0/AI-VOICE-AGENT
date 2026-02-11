@@ -1,11 +1,4 @@
-l/...
-│   ├───static/...
-│   └───types/...
-├───app/
-│   ├───AuthProvider.jsx
-│   ├───favicon.ico
-│   ├───globals.css
-│   ├───layout.js
+
 │   ├───loading.js
 │   ├───logo1.svg
 │   ├───page.js
