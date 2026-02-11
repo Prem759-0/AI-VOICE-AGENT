@@ -1,11 +1,5 @@
 ://www.npmjs.com/)
 
-1.  **Clone :**
-
-    ```bash
-    npm install
-    ```
-
 3.  **Set up environment variables:**
 
     Create a `.env.local` file in the root of the project and add the following, replacing the placeholder with your local Convex URL:
