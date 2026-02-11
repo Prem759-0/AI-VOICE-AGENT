@@ -1,13 +1,6 @@
 
 │├───dashboard/
-│   │   │   ├───page.jsx
-│   │   │   └───_components/
-│   │   │       ├───FeatureAssistants.jsx
-│   │   │       ├───Feedback.jsx
-│   │   │       ├───History.jsx
-│   │   │       └───UserInputDialog .jsx
-│   │   └───discussion-room/
-│   │       └───[roomid]/
+│   │   │ roomid]/
 │   │           └───page.jsx
 │   ├───api/
 │   │   └───getToken/
