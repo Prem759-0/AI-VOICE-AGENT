@@ -17,43 +17,7 @@ c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
 ├───middleware.jsx
 ├───
 │   ├───provider.jsx
-│   ├───_context/
-│   │   └───UserContext.jsx
-│   ├───(main)/
-│   │   ├───layout.jsx
-│   │   ├───_components/
-│   │   │   └───AppHeader.jsx
-│   │   ├───dashboard/
-│   │   │   ├───page.jsx
-│   │   │   └───_components/
-│   │   │       ├───FeatureAssistants.jsx
-│   │   │       ├───Feedback.jsx
-│   │   │       ├───History.jsx
-│   │   │       └───UserInputDialog .jsx
-│   │   └───discussion-room/
-│   │       └───[roomid]/
-│   │           └───page.jsx
-│   ├───api/
-│   │   └───getToken/
-│   │       └───route.jsx
-│   └───handler/
-│       └───[...stack]/
-│           └───page.js
-├───components/
-│   └───ui/
-│       ├───accordion.jsx
-│       ├───alert-dialog.jsx
-│       ├───alert.jsx
-│       ├───aspect-ratio.jsx
-│       ├───avatar.jsx
-│       ├───badge.jsx
-│       ├───blur-fade.jsx
-│       ├───breadcrumb.jsx
-│       ├───button-group.jsx
-│       ├───button.jsx
-│       ├───calendar.jsx
-│       ├───card.jsx
-│       ├───carousel.jsx
+│   ├───_context
 │       ├───chart.jsx
 │       ├───checkbox.jsx
 │       ├───collapsible.jsx
