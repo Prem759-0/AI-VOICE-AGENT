@@ -26,60 +26,7 @@ This is a web application that provides AI-powered voice assistant features. It'
 │   │   ├───layout.jsx
 │   │   ├───_components/
 │   │   │   └───AppHeader.jsx
-│   │   ├───dashboard/
-│   │   │   ├───page.jsx
-│   │   │   └───_components/
-│   │   │       ├───FeatureAssistants.jsx
-│   │   │       ├───Feedback.jsx
-│   │   │       ├───History.jsx
-│   │   │       └───UserInputDialog .jsx
-│   │   └───discussion-room/
-│   │       └───[roomid]/
-│   │           └───page.jsx
-│   ├───api/
-│   │   └───getToken/
-│   │       └───route.jsx
-│   └───handler/
-│       └───[...stack]/
-│           └───page.js
-├───components/
-│   └───ui/
-│       ├───accordion.jsx
-│       ├───alert-dialog.jsx
-│       ├───alert.jsx
-│       ├───aspect-ratio.jsx
-│       ├───avatar.jsx
-│       ├───badge.jsx
-│       ├───blur-fade.jsx
-│       ├───breadcrumb.jsx
-│       ├───button-group.jsx
-│       ├───button.jsx
-│       ├───calendar.jsx
-│       ├───card.jsx
-│       ├───carousel.jsx
-│       ├───chart.jsx
-│       ├───checkbox.jsx
-│       ├───collapsible.jsx
-│       ├───command.jsx
-│       ├───context-menu.jsx
-│       ├───dialog.jsx
-│       ├───drawer.jsx
-│       ├───dropdown-menu.jsx
-│       ├───empty.jsx
-│       ├───field.jsx
-│       ├───form.jsx
-│       ├───hover-card.jsx
-│       ├───input-group.jsx
-│       ├───input-otp.jsx
-│       ├───input.jsx
-│       ├───item.jsx
-│       ├───kbd.jsx
-│       ├───label.jsx
-│       ├───menubar.jsx
-│       ├───navigation-menu.jsx
-│       ├───pagination.jsx
-│       ├───popover.jsx
-│       ├───progress.jsx
+│   │   ├───
 │       ├───radio-group.jsx
 │       ├───resizable.jsx
 │       ├───scroll-area.jsx
