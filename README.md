@@ -16,28 +16,7 @@ c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
 ├───jsconfig.json
 ├───middleware.jsx
 ├───
-│   ├───provider.jsx
-│   ├───_context
-│       ├───chart.jsx
-│       ├───checkbox.jsx
-│       ├───collapsible.jsx
-│       ├───command.jsx
-│       ├───context-menu.jsx
-│       ├───dialog.jsx
-│       ├───drawer.jsx
-│       ├───dropdown-menu.jsx
-│       ├───empty.jsx
-│       ├───field.jsx
-│       ├───form.jsx
-│       ├───hover-card.jsx
-│       ├───input-group.jsx
-│       ├───input-otp.jsx
-│       ├───input.jsx
-│       ├───item.jsx
-│       ├───kbd.jsx
-│       ├───label.jsx
-│       ├───menubar.jsx
-│       ├───navigation-menu.jsx
+│   ├───
 │       ├───pagination.jsx
 │       ├───popover.jsx
 │       ├───progress.jsx
