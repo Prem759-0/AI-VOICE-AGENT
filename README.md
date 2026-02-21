@@ -15,27 +15,7 @@ c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
 ├───docker-compose.yml
 ├───jsconfig.json
 ├───middleware.jsx
-├───next-env.d.ts
-├───next.config.mjs
-├───package-lock.json
-├───package.json
-├───postcss.config.mjs
-├───README.md
-├───stack.js
-├───.git/...
-├───.next/
-│   ├───cache/...
-│   ├───server/...
-│   ├───static/...
-│   └───types/...
-├───app/
-│   ├───AuthProvider.jsx
-│   ├───favicon.ico
-│   ├───globals.css
-│   ├───layout.js
-│   ├───loading.js
-│   ├───logo1.svg
-│   ├───page.js
+├───
 │   ├───provider.jsx
 │   ├───_context/
 │   │   └───UserContext.jsx
