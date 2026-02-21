@@ -1,14 +1,6 @@
  NEXT_PUBLIC_CONVEX_URL=http://127.0.0.1:3210
     ```
-
-4.  **Start the Convex backend:**
-
-    docker-compose up -d
-    ```
-
-5.  **Run the development server:**
-
-    ```bash
+l
     npm run dev
     ```
 
