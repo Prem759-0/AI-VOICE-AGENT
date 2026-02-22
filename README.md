@@ -1,14 +1,5 @@
 
-# l**: [Tailwind ](https://nodejs.org/) (v18 or later)
-- [npm](https://www.npmjs.com/)
-- [Docker](https://www.docker.com/get-started)
-
-### Installation
-
-1.  **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/[your-username]/ai-voice-agent.git
+github.com/[your-username]/ai-voice-agent.git
     cd ai-voice-agent
     ```
 
