@@ -2,28 +2,7 @@
 ## Project Structure
 
 ```
-c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
-├───.gitignore
-├───components.json
-├───docker-compose.yml
-├───jsconfig.json
-├───middleware.jsx
-├───next-env.d.ts
-├───next.config.mjs
-├───package-lock.json
-├───package.json
-├───postcss.config.mjs
-├───README.md
-├───stack.js
-├───.git/...
-├───.next/
-│   ├───cache/...
-│   ├───server/...
-│   ├───static/...
-│   └───types/...
-├───app/
-│   ├───AuthProvider.jsx
-│   ├───favicon.ico
+c:/Users/Admin/OneDrive/Desktop/working  ├───favicon.ico
 │   ├───globals.css
 │   ├───layout.js
 │   ├───loading.js
