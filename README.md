@@ -1,42 +1,4 @@
-│   │   ├───_components/
-│   │   │   └───AppHeader.jsx
-│   │   ├───dashboard/
-│   │   │   ├───page.jsx
-│   │   │   └───_components/
-│   │   │       ├───FeatureAssistants.jsx
-│   │   │       ├───Feedback.jsx
-│   │   │       ├───History.jsx
-│   │   │       └───UserInputDialog .jsx
-│   │   └───discussion-room/
-│   │       └───[roomid]/
-│   │           └───page.jsx
-│   ├───api/
-│   │   └───getToken/
-│   │       └───route.jsx
-│   └───handler/
-│       └───[...stack]/
-│           └───page.js
-├───components/
-│   └───ui/
-│       ├───accordion.jsx
-│       ├───alert-dialog.jsx
-│       ├───alert.jsx
-│       ├───aspect-ratio.jsx
-│       ├───avatar.jsx
-│       ├───badge.jsx
-│       ├───blur-fade.jsx
-│       ├───breadcrumb.jsx
-│       ├───button-group.jsx
-│       ├───button.jsx
-│       ├───calendar.jsx
-│       ├───card.jsx
-│       ├───carousel.jsx
-│       ├───chart.jsx
-│       ├───checkbox.jsx
-│       ├───collapsible.jsx
-│       ├───command.jsx
-│       ├───context-menu.jsx
-│       ├───dialog.jsx
+  ├───dialog.jsx
 │       ├───drawer.jsx
 │       ├───dropdown-menu.jsx
 │       ├───empty.jsx
