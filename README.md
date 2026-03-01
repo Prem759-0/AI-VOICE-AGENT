@@ -196,22 +196,7 @@ c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
 │   ├───globe.svg
 │   ├───image.png
 │   ├───interview.png
-│   ├───language.png
-│   ├───lecture.png
-│   ├───logo.svg
-│   ├───meditation.png
-│   ├───next.svg
-│   ├───qa.png
-│   ├───t1.avif
-│   ├───t2.jpg
-│   ├───t3.jpg
-│   ├───t4.png
-│   ├───user.png
-│   ├───vercel.svg
-│   └───window.svg
-└───services/
-    ├───GlobalServices.jsx
-    └───Options.jsx
+
 ```
 
  
