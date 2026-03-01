@@ -1,12 +1,6 @@
 
 
-
- ```
-3.  **Set up environment variables:**
- Convex URL:
-
-    ```env
-    NEXT_PUBLIC_CONVEX_URL=http://127.0.0.1:3210
+ NEXT_PUBLIC_CONVEX_URL=http://127.0.0.1:3210
     ```
 
 4.  **Start the Convex backend:**
