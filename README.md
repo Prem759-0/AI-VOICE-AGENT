@@ -1,21 +1,5 @@
 
-│   ├───favicon.ico
-│   ├───globals.css
-│   ├───layout.js
-│   ├───loading.js
-│   ├───logo1.svg
-│   ├───page.js
-│   ├───provider.jsx
-│   ├───_context/
-│   │   └───UserContext.jsx
-│   ├───(main)/
-│   │   ├───layout.jsx
-│   │   ├───_components/
-│   │   │   └───AppHeader.jsx
-│   │   ├───dashboard/
-│   │   │   ├───page.jsx
-│   │   │   └───_components/
-│   │   │       ├───FeatureAssistants.jsx
+ ├───FeatureAssistants.jsx
 │   │   │       ├───Feedback.jsx
 │   │   │       ├───History.jsx
 │   │   │       └───UserInputDialog .jsx
