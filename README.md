@@ -1,17 +1,4 @@
 
-├───package-lock.json
-├───package.json
-├───postcss.config.mjs
-├───README.md
-├───stack.js
-├───.git/...
-├───.next/
-│   ├───cache/...
-│   ├───server/...
-│   ├───static/...
-│   └───types/...
-├───app/
-│   ├───AuthProvider.jsx
 │   ├───favicon.ico
 │   ├───globals.css
 │   ├───layout.js
