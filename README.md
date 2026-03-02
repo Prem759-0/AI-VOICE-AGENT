@@ -1,8 +1,5 @@
 
 
-    ```bash
-    docker-compose up -d
-    ```
 
 5.  **Run the development server:**
 
