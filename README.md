@@ -1,5 +1,4 @@
  
-**: [Docker](https://www.docker.com/)
 
 ## Getting Started
 
