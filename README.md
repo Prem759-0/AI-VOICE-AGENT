@@ -1,11 +1,5 @@
 
-### Installation
 
-1.  **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/[your-username]/ai-voice-agent.git
-    cd ai-voice-agent
     ```
 
 2.  **Install dependencies:**
