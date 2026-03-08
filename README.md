@@ -1,9 +1,3 @@
-a
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v18 or later)
-- [npm](https://www.npmjs.com/)
-- [Docker](https://www.docker.com/get-started)
 
 ### Installation
 
