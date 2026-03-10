@@ -25,21 +25,6 @@ Follow these instructions to set up and run the project locally.
 
 1.  **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/[your-username]/ai-voice-agent.git
-    cd ai-voice-agent
-    ```
-
-2.  **Install dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3.  **Set up environment variables:**
-
-    Create a `.env.local` 
-```
 
  
 
