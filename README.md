@@ -105,22 +105,4 @@ c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
 │   │   │       ├───FeatureAssistants.jsx
 │   │   │       ├───Feedback.jsx
 │   │   │       ├───History.jsx
-│   │   │       └───UserInputDialog .jsx
-│   │   └───discussion-room/
-│   │       └───[roomid]/
-│   │           └───page.jsx
-│   ├───api/
-│   │   └───getToken/
-│   │       └───route.jsx
-│   └───handler/
-│       └───[...stack]/
-│           └───page.js
-├───components/
-│   └───ui/
-│       ├───accordion.jsx
-│       ├───alert-dialog.jsx
-│       ├───alert.jsx
-│       ├───aspect-ratio.jsx
-│       ├───avatar.jsx
-│       ├───badge.jsx
-│       ├───blur-
+│   │   │       └───UserInputDialog 
