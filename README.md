@@ -174,28 +174,5 @@ c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
 ├───convex/
 │   ├───DiscussionRoom.jsx
 │   ├───schema.js
-│   ├───users.js
-│   └───_generated/
-│       ├───api.d.ts
-│       ├───api.js
-│       ├───dataModel.d.ts
-│       ├───server.d.ts
-│       └───server.js
-├───hooks/
-│   └───use-mobile.js
-├───lib/
-│   └───utils.js
-├───node_modules/...
-├───public/
-│   ├───ab1.png
-│   ├───ab2.png
-│   ├───ab3.png
-│   ├───ab4.png
-│   ├───ab5.png
-│   ├───file.svg
-│   ├───globe.svg
-│   ├───image.png
-│   ├───interview.png
 │   ├───
-
 
