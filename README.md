@@ -1,21 +1,4 @@
- 
-3.  **Set up environment variables:**
 
-├───README.md
-├───stack.js
-├───.git/...
-├───.next/
-│   ├───cache/...
-│   ├───server/...
-│   ├───static/...
-│   └───types/...
-├───app/
-│   ├───AuthProvider.jsx
-│   ├───favicon.ico
-│   ├───globals.css
-│   ├───layout.js
-│   ├───loading.js
-│   ├───logo1.svg
 │   ├───page.js
 │   ├───provider.jsx
 │   ├───_context/
