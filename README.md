@@ -73,20 +73,6 @@ c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
 ├───next.config.mjs
 ├───package-lock.json
 ├───package.json
-├───postcss.config.mjs
-├───README.md
-├───stack.js
-├───.git/...
-├───.next/
-│   ├───cache/...
-│   ├───server/...
-│   ├───static/...
-│   └───types/...
-├───app/
-│   ├───AuthProvider.jsx
-
-
-
 
 
 
