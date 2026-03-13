@@ -44,7 +44,6 @@ Follow these instructions to set up and run the project locally.
     NEXT_PUBLIC_CONVEX_URL=http://127.0.0.1:3210
     ```
 
-4.  **Start the Convex backend:**
 
    
     ```
