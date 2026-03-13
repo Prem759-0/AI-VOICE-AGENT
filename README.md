@@ -30,10 +30,7 @@ Follow these instructions to set up and run the project locally.
     cd ai-voice-agent
     ```
 
-2.  **Install dependencies:**
 
-    ```bash
-    npm install
     ```
 
 
