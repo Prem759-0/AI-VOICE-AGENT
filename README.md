@@ -52,7 +52,3 @@ Follow these instructions to set up and run the project locally.
     docker-compose up -d
     ```
 
-5.  **Run the development server:**
-
-
-
