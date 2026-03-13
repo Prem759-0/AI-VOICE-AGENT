@@ -7,9 +7,6 @@ This is a web application that provides AI-powered voice assistant features. It'
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **UI Components**: [Shadcn/UI](https://ui.shadcn.com/)
-- **Backend & Database**: [Convex](https://www.convex.dev/)
-- **Authentication**: [Stackframe](https://www.stackframe.sh/)
-- **Containerization**: [Docker](https://www.docker.com/)
 
 
 
