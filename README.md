@@ -23,13 +23,6 @@ Follow these instructions to set up and run the project locally.
 
 ### Installation
 
-1.  **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/[your-username]/ai-voice-agent.git
-    cd ai-voice-agent
-    ```
-
 
     ```
 
