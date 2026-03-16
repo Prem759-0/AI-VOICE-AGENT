@@ -115,26 +115,6 @@ c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
 │           └───page.js
 ├───components/
 │   └───ui/
-│       ├───accordion.jsx
-│       ├───alert-dialog.jsx
-│       ├───alert.jsx
-│       ├───aspect-ratio.jsx
-│       ├───avatar.jsx
-│       ├───badge.jsx
-│       ├───blur-fade.jsx
-│       ├───breadcrumb.jsx
-│       ├───button-group.jsx
-│       ├───button.jsx
-│       ├───calendar.jsx
-│       ├───card.jsx
-│       ├───carousel.jsx
-│       ├───chart.jsx
-│       ├───checkbox.jsx
-│       ├───collapsible.jsx
-│       ├───command.jsx
-│       ├───skeleton.jsx
-│       ├───slider.jsx
-│       ├───sonner.jsx
 │       ├───spinner.jsx
 │       ├───switch.jsx
 │   └───use-mobile.js
