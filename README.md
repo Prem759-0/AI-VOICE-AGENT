@@ -182,19 +182,6 @@ c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
 ├───hooks/
 │   └───use-mobile.js
 ├───lib/
-│   └───utils.js
-├───node_modules/...
-├───public/
-│   ├───ab1.png
-│   ├───ab2.png
-│   ├───ab3.png
-│   ├───ab4.png
-│   ├───ab5.png
-│   ├───file.svg
-│   ├───globe.svg
-│   ├───image.png
-    ├───GlobalServices.jsx
-    └───Options.jsx
 ```
 
 
