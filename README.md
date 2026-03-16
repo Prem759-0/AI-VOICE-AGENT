@@ -38,31 +38,4 @@ Follow these instructions to set up and run the project locally.
 
 3.  **Set up environment variables:**
 
-    Create a `.env.local` file in the root of the project and add the following, replacing the placeholder with your local Convex URL:
-
-    ```env
-    NEXT_PUBLIC_CONVEX_URL=http://127.0.0.1:3210
-    ```
-
-4.  **Start the Convex backend:**
-
-    Run the following command to start the Convex services in the background using Docker:
-
-    ```bash
-    docker-compose up -d
-    ```
-
-5.  **Run the development server:**
-
-    ```bash
-    npm run dev
-    ```
-
-    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Project Structure
-
-├───lib/
-```
-
-
+    Create a `.env.local` file in the root of the proj
