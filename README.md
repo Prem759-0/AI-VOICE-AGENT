@@ -163,23 +163,6 @@ c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
 │       ├───sonner.jsx
 │       ├───spinner.jsx
 │       ├───switch.jsx
-│       ├───table.jsx
-│       ├───tabs.jsx
-│       ├───textarea.jsx
-│       ├───toggle-group.jsx
-│       ├───toggle.jsx
-│       └───tooltip.jsx
-├───convex/
-│   ├───DiscussionRoom.jsx
-│   ├───schema.js
-│   ├───users.js
-│   └───_generated/
-│       ├───api.d.ts
-│       ├───api.js
-│       ├───dataModel.d.ts
-│       ├───server.d.ts
-│       └───server.js
-├───hooks/
 │   └───use-mobile.js
 ├───lib/
 ```
