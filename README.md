@@ -93,27 +93,7 @@ c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
 │   ├───provider.jsx
 │   ├───_context/
 │   │   └───UserContext.jsx
-│   ├───(main)/
-│   │   ├───layout.jsx
-│   │   ├───_components/
-│   │   │   └───AppHeader.jsx
-│   │   ├───dashboard/
-│   │   │   ├───page.jsx
-│   │   │   └───_components/
-│   │   │       ├───FeatureAssistants.jsx
-│   │   │       ├───Feedback.jsx
-│   │   │       ├───History.jsx
-│   │   │       └───UserInputDialog .jsx
-│   │   └───discussion-room/
-│   │       └───[roomid]/
-│   │           └───page.jsx
-│   ├───api/
-│   │   └───getToken/
-│   │       └───route.jsx
-│   └───handler/
-│       └───[...stack]/
-│           └───page.js
-├───components/
+
 │   └───ui/
 │       ├───spinner.jsx
 │       ├───switch.jsx
