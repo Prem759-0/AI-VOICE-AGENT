@@ -62,16 +62,6 @@ Follow these instructions to set up and run the project locally.
 
 ## Project Structure
 
-```
-c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
-├───.gitignore
-├───components.json
-├───docker-compose.yml
-├───jsconfig.json
-├───middleware.jsx
-│       ├───spinner.jsx
-│       ├───switch.jsx
-│   └───use-mobile.js
 ├───lib/
 ```
 
