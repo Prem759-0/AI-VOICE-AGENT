@@ -78,21 +78,6 @@ c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
 ├───stack.js
 ├───.git/...
 ├───.next/
-│   ├───cache/...
-│   ├───server/...
-│   ├───static/...
-│   └───types/...
-├───app/
-│   ├───AuthProvider.jsx
-│   ├───favicon.ico
-│   ├───globals.css
-│   ├───layout.js
-│   ├───loading.js
-│   ├───logo1.svg
-│   ├───page.js
-│   ├───provider.jsx
-│   ├───_context/
-│   │   └───UserContext.jsx
 
 │   └───ui/
 │       ├───spinner.jsx
