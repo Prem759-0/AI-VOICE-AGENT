@@ -55,37 +55,7 @@ Follow these instructions to set up and run the project locally.
 5.  **Run the development server:**
 
     ```bash
-    npm run dev
-    ```
-
-    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Project Structure
-
-```
-c:/Users/Admin/OneDrive/Desktop/working website/ai-vioce-agent/
-├───.gitignore
-├───components.json
-├───docker-compose.yml
-├───jsconfig.json
-├───middleware.jsx
-├───next-env.d.ts
-├───next.config.mjs
-├───package-lock.json
-├───package.json
-├───postcss.config.mjs
-├───README.md
-├───stack.js
-├───.git/...
-├───.next/
-│   ├───cache/...
-│   ├───server/...
-│   ├───static/...
-│   └───types/...
-├───app/
-│   ├───AuthProvider.jsx
-│   ├───favicon.ico
-│   ├───
+    npm run 
 
 ```
 
